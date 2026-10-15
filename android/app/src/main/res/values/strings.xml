@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReelsGuard</string>
+    <string name="accessibility_service_description">Monitors short-form video scrolls (Instagram Reels, TikTok, YouTube Shorts) to track doomscrolling time, count reels watched, and provide digital wellness interventions.</string>
+</resources>
