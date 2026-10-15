@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039029012352",
+    "project_id": "reelsguard-shield-2026",
+    "storage_bucket": "reelsguard-shield-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039029012352:android:46965fd309e781c6522365",
+        "android_client_info": {
+          "package_name": "com.antidoomscroll.reels.reels_count"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgkBRv12kKtJEPHw8BPhoq5U14aMTZk_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

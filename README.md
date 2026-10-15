@@ -191,6 +191,25 @@ flutter test
 
 ---
 
+## 🚀 Firebase App Distribution & Local Automation
+
+Deploy directly from your development terminal with automatic static analysis, testing, and release APK building using the included automation script:
+
+```bash
+# Basic deploy with timestamp release notes
+./scripts/deploy_firebase.sh
+
+# Deploy with custom release notes
+./scripts/deploy_firebase.sh "Updated mindful break dialog and hydration tracker"
+
+# Deploy and notify specific testers or groups
+./scripts/deploy_firebase.sh "Beta sprint 2 release" "beta-testers"
+```
+
+For complete setup instructions, tester onboarding guides, and Firebase App Distribution details, see [`docs/firebase_distribution_guide.md`](docs/firebase_distribution_guide.md).
+
+---
+
 ## 🔒 Privacy-First Guarantee
 
 ReelsGuard was built on the fundamental principle that digital wellbeing tools must respect user privacy:
